@@ -1,0 +1,18 @@
+{
+  "dataset_rows_used": 1994,
+  "original_numeric_features": 122,
+  "pca_components_retained": 43,
+  "requested_cumulative_explained_variance": 0.95,
+  "actual_cumulative_explained_variance": 0.9500031656861946,
+  "input_dimension_reduction_percent": 64.75409836065573,
+  "train_rows": 1595,
+  "test_rows": 399,
+  "target": "ViolentCrimesPerPop",
+  "random_seed": 42,
+  "mlp_hidden_layers": [
+    64
+  ],
+  "optimizer": "SGD",
+  "batch_size": 32,
+  "max_iter": 500
+}
